@@ -1,9 +1,4 @@
 # BASE DE CONOCIMIENTO RUFIGAS
-## Para uso exclusivo de Sofi — Asistente Virtual
-
-> **Nota para el desarrollador**: Los campos marcados con `[COMPLETAR]` requieren información específica del taller que solo Rufigas conoce.
-
----
 
 ## 1. INFORMACIÓN DEL TALLER
 
