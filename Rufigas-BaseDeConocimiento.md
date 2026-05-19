@@ -464,4 +464,3 @@ Depende del uso. Para un taxista que maneja 200 km/día, la inversión se recupe
 **¿La conversión afecta el valor del vehículo?**
 Una conversión bien hecha en taller autorizado no desvaloriza el vehículo. En algunos casos puede ser un valor agregado para compradores que buscan ahorro en combustible.
 
-## 14. ¿SE PUEDE CONVERTIR UN VEHÍCULO A DIESEL?
