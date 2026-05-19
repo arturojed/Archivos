@@ -1,32 +1,6 @@
 # BASE DE CONOCIMIENTO RUFIGAS
 
-## 1. INFORMACIÓN DEL TALLER
-
-**¿Quiénes son?**
-Rufigas es un taller especializado en conversiones de vehículos a gas (GNV y GLP), ubicado en Lima, Perú. Cuenta con más de 20 años de experiencia en el mercado y ha convertido más de 35,000 vehículos. Es un taller autorizado por el Ministerio de Transportes y Comunicaciones (MTC).
-
-**¿Dónde están ubicados?**
-Costado de SENATI, Av. Pachacútec, Parque Industrial de Villa El Salvador, Lima.
-
-**¿Cuáles son sus horarios de atención?**
-Lunes a Viernes: 8:30 am a 6:00 pm
-Sábados: 8:30 am a 2:00 pm
-
-**¿Cómo puedo contactarlos?**
-WhatsApp: 902 752 446 | Teléfono: (01) 288-2137 | Web: www.rufigas.pe
-
-**¿Por qué elegir Rufigas?**
-- Taller autorizado por el MTC
-- Más de 35,000 conversiones realizadas
-- Equipos italianos certificados de alta calidad
-- Técnicos especializados y capacitados
-- Garantía en sistema e instalación
-- Servicio de certificación anual y quinquenal propio
-- Financiamiento disponible sin inicial ni intereses para GNV
-
----
-
-## 2. ¿QUÉ ES LA CONVERSIÓN A GAS?
+## 1. ¿QUÉ ES LA CONVERSIÓN A GAS?
 
 **¿Qué significa convertir un vehículo a gas?**
 Convertir un vehículo a gas consiste en instalarle un sistema de gas (GNV o GLP) que le permite funcionar con dos combustibles: gas y gasolina. El vehículo se vuelve bicombustible — puede usar cualquiera de los dos con solo presionar un botón. No se elimina el sistema de gasolina.
