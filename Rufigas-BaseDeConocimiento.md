@@ -171,8 +171,6 @@ Entre 20 y 60 minutos aproximadamente.
 **¿Cómo funciona el chip de certificación?**
 Al realizar la conversión se instala un chip único e irrepetible en el vehículo que registra la placa, fecha de próxima revisión y datos del sistema. Este chip tiene vigencia de 1 año y se actualiza con cada certificación.
 
-
-
 ---
 
 ## 8. REVISIÓN QUINQUENAL DE CILINDROS (SOLO GNV)
@@ -207,8 +205,6 @@ Sí. Cada cilindro se revisa independientemente. Algunos vehículos tienen 2 o m
 
 **¿Cada cuánto tiempo es la quinquenal?**
 Cada 5 años, calculados desde la fecha de fabricación del cilindro (no desde la conversión). La vida útil del cilindro es de hasta 20 años.
-
-
 
 ---
 
@@ -267,34 +263,11 @@ El mantenimiento del sistema de gas se realiza aproximadamente cada 20,000 kiló
 Sí. Se recomienda usar el vehículo al menos 5 minutos diarios con gasolina para mantener lubricados los inyectores, bomba de combustible y evitar resequedad en los tubos.
 
 **¿Rufigas ofrece servicio de mantenimiento?**
-Sí. Rufigas ofrece Mantenimiento Preventivo del sistema a gas. Ver precio en la sección de Servicios Adicionales.
+Sí. Rufigas ofrece Mantenimiento Preventivo del sistema a gas. Consulta disponibilidad y precio directamente con el taller.
 
 ---
 
-## 12. SERVICIOS ADICIONALES DE RUFIGAS
-
-**Certificación Anual GNV/GLP**
-Inspección anual obligatoria del sistema de gas. Duración: 20-30 minutos.
-Precio: S/ 80.00
-
-**Revisión Quinquenal de Cilindros (GNV)**
-Inspección obligatoria cada 5 años del cilindro GNV. Incluye desmontaje, prueba hidrostática, reemplazo de válvula, remontaje y certificado.
-Duración: 1-2 días.
-Precio: S/ 250.00 por cilindro.
-
-**Repuestos**
-Rufigas cuenta con stock completo de repuestos Tomasetto Achille para garantizar el mantenimiento y reparación de cualquier sistema instalado.
-
-**Mantenimiento Preventivo del Sistema de Gas**
-Revisión preventiva completa del sistema GNV o GLP. Incluye limpieza de reductor, filtro de gas, riel de inyectores, calibración con software y análisis de emisiones.
-Precio: S/ 180.00
-
-**Ventas al Contado y al Crédito**
-Rufigas ofrece la conversión tanto al contado como financiada. Consultar condiciones vigentes.
-
----
-
-## 13. PREGUNTAS SOBRE SEGURIDAD
+## 12. PREGUNTAS SOBRE SEGURIDAD
 
 **¿Los tanques pueden explotar en un accidente?**
 Los cilindros de GNV están diseñados para resistir impactos extremos (pruebas hasta 300 bar). No explotan ante impactos comunes. En caso de incendio, tienen válvulas de seguridad que liberan el gas de forma controlada.
@@ -305,7 +278,9 @@ Sí, no hay restricción. El sistema está diseñado para uso normal en carreter
 **¿Qué pasa si se rompe una manguera de gas?**
 Los sistemas modernos tienen válvulas de corte automático. Si hay fuga, el sistema corta el suministro. El GNV sube y se disipa; el GLP requiere ventilación.
 
-## 14. ¿SE PUEDE CONVERTIR UN VEHÍCULO A DIESEL?
+---
+
+## 13. ¿SE PUEDE CONVERTIR UN VEHÍCULO A DIESEL?
 
 **¿Los vehículos a diesel se pueden convertir a GNV o GLP?**
 La conversión estándar a GNV o GLP aplica **exclusivamente a vehículos a gasolina** (con carburador o inyección electrónica). Rufigas se especializa en conversiones de vehículos gasolineros.
@@ -323,7 +298,7 @@ Sí, existe el sistema **Dual-Fuel** (también llamado "pilot injection"), que p
 
 ---
 
-## 15. TIPOS DE TANQUES — GUÍA COMPLETA
+## 14. TIPOS DE TANQUES — GUÍA COMPLETA
 
 ### Tanques para GNV
 
@@ -398,7 +373,7 @@ Depende del tipo de gas y la capacidad elegida:
 
 ---
 
-## 16. MARCAS Y EQUIPOS — ¿QUÉ INSTALA RUFIGAS?
+## 15. MARCAS Y EQUIPOS — ¿QUÉ INSTALA RUFIGAS?
 
 **¿Qué marca de equipo instala Rufigas?**
 Rufigas instala exclusivamente equipos **Tomasetto Achille**, la marca italiana considerada el equipo número 1 del mundo en conversiones vehiculares a gas.
@@ -418,7 +393,7 @@ Rufigas instala exclusivamente equipos **Tomasetto Achille**, la marca italiana 
 
 ---
 
-## 17. TIPOS DE CONVERSIÓN — MULTIPUNTO E INYECCIÓN DIRECTA
+## 16. TIPOS DE CONVERSIÓN — MULTIPUNTO E INYECCIÓN DIRECTA
 
 **¿Qué es la conversión secuencial multipunto?**
 Es el sistema estándar moderno de conversión a gas. Funciona así:
@@ -456,11 +431,10 @@ No. El sistema de inyección directa de gasolina sigue funcionando igual. Cuando
 
 ---
 
-## 18. PREGUNTAS ECONÓMICAS
+## 17. PREGUNTAS ECONÓMICAS
 
 **¿En cuánto tiempo se recupera la inversión?**
 Depende del uso. Para un taxista que maneja 200 km/día, la inversión se recupera en aproximadamente 4-8 meses con GNV. Para un particular con uso moderado, puede ser 1-2 años.
 
 **¿La conversión afecta el valor del vehículo?**
 Una conversión bien hecha en taller autorizado no desvaloriza el vehículo. En algunos casos puede ser un valor agregado para compradores que buscan ahorro en combustible.
-
