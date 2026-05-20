@@ -55,6 +55,9 @@ Sí, siempre que se instale en un taller autorizado. A diferencia del GNV, este 
 **¿Qué tipo de tanque usa el GLP?**
 Existen dos tipos: cilíndrico (va en la maletera) y toroidal (forma de dona, va en el espacio de la llanta de repuesto).
 
+**¿Los tanques de GLP pueden explotar?**
+No. Los tanques están certificados y diseñados para resistir impactos y altas temperaturas. En caso de fuga, el GLP no explota por sí solo — necesita una fuente de ignición y una concentración específica en el aire. Los sistemas modernos tienen válvulas de corte automático que detienen el suministro ante cualquier anomalía. Con una instalación correcta y mantenimiento al día, el riesgo es mínimo.
+
 **¿Cuánto dura el tanque de GLP?**
 Tienen una vida útil de 10 años desde su fabricación. Cumplido este tiempo, el tanque debe reemplazarse por normativa de seguridad.
 
