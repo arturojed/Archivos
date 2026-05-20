@@ -88,7 +88,11 @@ Para vehículos particulares, conductores que viajan frecuentemente a provincias
 ## 5. MITOS Y MIEDOS FRECUENTES
 
 **"El gas es peligroso, puede explotar"**
-Falso. Los sistemas instalados en talleres autorizados por el MTC son más seguros que los de gasolina. Los tanques pasan por pruebas extremas de impacto y fuego.
+Falso. Los sistemas instalados en talleres autorizados por el MTC son más seguros que los de gasolina. Los tanques pasan por pruebas extremas de impacto y fuego. En caso de fuga, los sistemas modernos tienen válvulas de corte automático que detienen el suministro de gas inmediatamente.
+
+Para el GNV: el gas es más liviano que el aire, por lo que sube y se disipa en la atmósfera sin acumularse. Los tanques están diseñados para soportar altísimas presiones sin riesgo de explosión.
+
+Para el GLP: el gas es más pesado que el aire y puede acumularse en superficies bajas si hay una fuga. Por eso es fundamental mantener el sistema en buen estado, realizar la certificación anual y ventilar el vehículo si detectas olor a gas. Con una instalación correcta y mantenimiento al día, el riesgo es mínimo.
 
 **"Voy a perder potencia con el gas"**
 Casi imperceptible. Los equipos actuales son de última generación. El vehículo mantiene su fuerza normal para trabajar, viajar o subir pendientes. La diferencia es tan pequeña que solo se notaría si llevas el motor al límite absoluto en una situación extrema. En el manejo diario no notarás diferencia.
