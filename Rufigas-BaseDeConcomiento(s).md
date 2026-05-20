@@ -16,7 +16,7 @@ No. No existe ninguna especificación técnica que obligue a hacerlo.
 
 ---
 
-## 3. GNV — GAS NATURAL VEHICULAR
+## 2. GNV — GAS NATURAL VEHICULAR
 
 **¿Qué es el GNV?**
 Es un combustible de origen natural que se extrae del subsuelo. Es una de las energías más limpias y ecológicas del mundo. Al ser un gas puro, no deja residuos de carbón ni hollín, ayudando a mantener tu motor limpio por dentro.
@@ -41,7 +41,7 @@ En gasocentros autorizados. La red es muy amplia en Lima y se encuentra en const
 
 ---
 
-## 4. GLP — GAS LICUADO DE PETRÓLEO
+## 3. GLP — GAS LICUADO DE PETRÓLEO
 
 **¿Qué es el GLP?**
 Es una mezcla de propano y butano en estado líquido que se obtiene del procesamiento del gas natural o del petróleo.
@@ -63,7 +63,7 @@ Sí. El GLP cuenta con una red de distribución muy amplia a nivel nacional, inc
 
 ---
 
-## 5. GNV vs GLP — ¿CUÁL ELEGIR?
+## 4. GNV vs GLP — ¿CUÁL ELEGIR?
 
 | Característica | GNV | GLP |
 |---|---|---|
@@ -85,7 +85,7 @@ Para vehículos particulares, conductores que viajan frecuentemente a provincias
 
 ---
 
-## 6. MITOS Y MIEDOS FRECUENTES
+## 5. MITOS Y MIEDOS FRECUENTES
 
 **"El gas es peligroso, puede explotar"**
 Falso. Los sistemas instalados en talleres autorizados por el MTC son más seguros que los de gasolina. Los tanques pasan por pruebas extremas de impacto y fuego.
@@ -113,10 +113,10 @@ Falso. El auto arranca automáticamente en gasolina y luego cambia a gas. Si el 
 
 ---
 
-## 7. CERTIFICACIÓN ANUAL
+## 6. CERTIFICACIÓN ANUAL
 
 **¿Qué es la certificación anual?**
-Es una revisión obligatoria por ley para garantizar que el sistema de gas siga operando de forma segura. 
+Es una revisión obligatoria por ley para garantizar que el sistema de gas siga operando de forma segura.
 
 **¿Qué se revisa en la certificación?**
 El inspector revisa que el tanque y los tubos estén bien fijos, y comprueba que no haya ninguna fuga de gas en el sistema.
@@ -130,7 +130,7 @@ Entre 20 y 60 minutos aproximadamente.
 
 ---
 
-## 8. REVISIÓN DE CILINDROS CADA 5 AÑOS (SOLO GNV)
+## 7. REVISIÓN DE CILINDROS CADA 5 AÑOS (SOLO GNV)
 
 **¿Qué es la revisión quinquenal?**
 Es una inspección profunda obligatoria cada 5 años solo para tanques de GNV. El tanque se desmonta por completo para realizarle pruebas de presión e internas en un centro autorizado por el MTC. El GLP no pasa por esto, ya que su tanque se cambia por completo a los 10 años.
@@ -140,14 +140,14 @@ Entre 1 y 2 días, debido a que el tanque debe ser llevado a un laboratorio espe
 
 ---
 
-## 9. REGISTRO EN SUNARP
+## 8. REGISTRO EN SUNARP
 
 **¿Debo registrar la conversión?**
 Sí. Al cambiar el combustible, se debe actualizar la tarjeta de propiedad en la SUNARP para que figure como "GASOLINA / GNV" o "GASOLINA / GLP". Rufigas te entregará todos los documentos técnicos necesarios para que realices este trámite de forma personal.
 
 ---
 
-## 10. PROGRAMA AHORRO GNV
+## 9. PROGRAMA AHORRO GNV
 
 **¿Qué es el Programa Ahorro GNV?**
 Es un beneficio del Estado (FISE) que financia la conversión a GNV sin cuota inicial y sin intereses. Se paga en un plazo de hasta 3 años directamente cada vez que cargas gas en el grifo (se añade un pequeño monto a tu consumo).
@@ -160,20 +160,20 @@ Sí. Rufigas es un taller autorizado por el MTC y afiliado al Programa Ahorro GN
 
 ---
 
-## 11. MANTENIMIENTO
+## 10. MANTENIMIENTO
 
 **¿Qué mantenimiento requiere el sistema de gas?**
 Se realiza aproximadamente cada 20,000 kilómetros (una vez al año para un usuario promedio). Incluye el cambio de filtros de gas y la calibración del sistema.
 
 ---
 
-## 12. ¿SE PUEDE CONVERTIR UN VEHÍCULO A DIESEL?
+## 11. ¿SE PUEDE CONVERTIR UN VEHÍCULO A DIESEL?
 
 No de la forma estándar. Las conversiones tradicionales de Rufigas son exclusivas para motores a gasolina. Los motores diesel funcionan de manera diferente y no son compatibles con nuestros equipos.
 
 ---
 
-## 13. GUÍA DE TANQUES TOROIDALES DE GLP (FORMA DE DONA)
+## 12. GUÍA DE TANQUES TOROIDALES DE GLP (FORMA DE DONA)
 
 * **Instalación Interna:** Se ubica en el espacio original de la llanta de repuesto. Es la opción más estética para autos sedán.
 * **Instalación Externa:** Se monta de manera segura en la parte baja exterior del vehículo. Ideal para camionetas, SUV y minivans.
@@ -183,13 +183,13 @@ Al ocupar ese espacio, las soluciones comunes de los conductores son: usar una l
 
 ---
 
-## 14. MARCAS Y EQUIPOS — ¿QUÉ INSTALA RUFIGAS?
+## 13. MARCAS Y EQUIPOS — ¿QUÉ INSTALA RUFIGAS?
 
 Rufigas instala exclusivamente la marca italiana **Tomasetto Achille** con electrónica **AEB**, considerada la número 1 del mundo en sistemas de gas. Todos los componentes son importados, de alta precisión y están homologados por el MTC.
 
 ---
 
-## 15. MOTORES DE INYECCIÓN DIRECTA (GDI, TSI, FSI, D-4S)
+## 14. MOTORES DE INYECCIÓN DIRECTA (GDI, TSI, FSI, D-4S)
 
 **¿Se pueden convertir?**
 Sí. Estos motores modernos requieren un kit especial de alta tecnología. El sistema trabaja de forma inteligente combinando el gas con una cantidad mínima de gasolina para proteger el motor. En **Rufigas** realizamos una inspección gratuita para indicarte el equipo exacto que necesitas.
