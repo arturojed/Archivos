@@ -59,7 +59,7 @@ Existen dos tipos: cilíndrico (va en la maletera) y toroidal (forma de dona, va
 No. Los tanques están diseñados y certificados para resistir impactos y altas temperaturas. Los sistemas modernos tienen válvulas de seguridad que cortan el suministro automáticamente ante cualquier anomalía. Con una instalación correcta y mantenimiento al día, puedes manejarlo con total tranquilidad.
 
 **¿Cuánto dura el tanque de GLP?**
-Tienen una vida útil de 10 años desde su fabricación. Cumplido este tiempo, el tanque debe reemplazarse por normativa de seguridad.
+Los tanques tienen una vida útil de 10 años, que es bastante tiempo de uso tranquilo. Al cumplir ese plazo, simplemente se reemplaza por uno nuevo como parte del mantenimiento normal del sistema.
 
 **¿Hay GLP disponible en todo el país?**
 Sí. El GLP cuenta con una red de distribución muy amplia a nivel nacional, incluyendo casi todas las provincias.
@@ -68,17 +68,22 @@ Sí. El GLP cuenta con una red de distribución muy amplia a nivel nacional, inc
 
 ## 4. GNV vs GLP — ¿CUÁL ELEGIR?
 
-| Característica | GNV | GLP |
-|---|---|---|
-| Ahorro vs gasolina | ~70% | ~45% |
-| Costo de conversión | Mayor | Menor |
-| Red de abastecimiento | Lima y ciudades grandes | Todo el país |
-| Tipo de tanque | Cilíndrico (maletera) | Cilíndrico o toroidal |
-| Espacio en maletera | Se reduce | Se conserva con toroidal |
-| Vida útil del tanque | 20 años (con revisión) | 10 años |
-| Peso del tanque | Más pesado | Más liviano |
-| Revisión obligatoria | Anual + cada 5 años | Anual |
-| Seguridad en fuga | El gas sube y se disipa | El gas baja (requiere ventilación) |
+Ambos sistemas son excelentes opciones para ahorrar en combustible. Estas son las diferencias más importantes:
+
+**Ahorro en combustible**
+GNV te permite ahorrar aproximadamente el 70% vs gasolina. GLP te permite ahorrar aproximadamente el 45%. Los dos representan un ahorro significativo en tu bolsillo.
+
+**Costo de la conversión**
+La conversión a GLP tiene un menor costo inicial. La conversión a GNV es algo mayor, pero el ahorro mensual más alto hace que recuperes la inversión más rápido.
+
+**¿Dónde puedes cargar?**
+GNV tiene una amplia red en Lima y ciudades principales, en constante crecimiento. GLP está disponible en prácticamente todo el país, incluyendo provincias.
+
+**El tanque y el espacio**
+GNV usa un tanque cilíndrico que va en la maletera. GLP tiene dos opciones: cilíndrico (maletera) o toroidal (ocupa el espacio de la llanta de repuesto, dejando la maletera completamente libre).
+
+**Durabilidad del sistema**
+GNV con su revisión de seguridad cada 5 años puede durar hasta 20 años. GLP tiene una vida útil de 10 años, tras los cuales se reemplaza el tanque.
 
 **¿Para quién conviene el GNV?**
 Para taxistas y vehículos de uso intensivo que circulan principalmente en Lima. El ahorro del 70% permite recuperar la inversión muy rápido.
@@ -88,7 +93,23 @@ Para vehículos particulares, conductores que viajan frecuentemente a provincias
 
 ---
 
-## 5. MITOS Y MIEDOS FRECUENTES
+## 5. ¿CUÁL SISTEMA ME CONVIENE?
+
+Depende de cómo uses tu auto:
+
+🚕 **Taxi o uso intensivo diario en Lima** → GNV. El mayor ahorro (70%) recupera la inversión en pocos meses.
+
+🌎 **Viajas seguido a provincias** → GLP. Hay estaciones en todo el país.
+
+🚗 **Uso particular, quieres empezar con menor inversión** → GLP. Menor costo de conversión y más fácil de financiar.
+
+💰 **Quieres el máximo ahorro a largo plazo** → GNV. Con el Programa Ahorro GNV puedes financiarlo sin inicial ni intereses.
+
+¿No estás seguro? Pídenos cotización para ambos y decides con números reales en mano.
+
+---
+
+## 6. MITOS Y MIEDOS FRECUENTES
 
 **"El gas es peligroso, puede explotar"**
 Falso. Los sistemas instalados en talleres autorizados por el MTC son más seguros que los de gasolina. Los tanques pasan por pruebas extremas de impacto y fuego. En caso de fuga, los sistemas modernos tienen válvulas de corte automático que detienen el suministro de gas inmediatamente.
@@ -120,41 +141,42 @@ Falso. El auto arranca automáticamente en gasolina y luego cambia a gas. Si el 
 
 ---
 
-## 6. CERTIFICACIÓN ANUAL
+## 7. CERTIFICACIÓN ANUAL
 
 **¿Qué es la certificación anual?**
-Es una revisión obligatoria por ley para garantizar que el sistema de gas siga operando de forma segura.
+Es una revisión obligatoria por ley para garantizar que el sistema de gas siga operando de forma segura. Es rápida, sencilla y te da tranquilidad por un año más.
 
 **¿Qué se revisa en la certificación?**
 El inspector revisa que el tanque y los tubos estén bien fijos, y comprueba que no haya ninguna fuga de gas en el sistema.
 
 **¿Cuánto tiempo toma?**
-Entre 20 y 60 minutos aproximadamente.
+Entre 20 y 60 minutos aproximadamente. Puedes esperar en el taller mientras se realiza.
 
 **¿Qué pasa si vence mi certificación?**
-* **GNV**: El sistema inteligente del gasocentro bloqueará el chip del auto y no te permitirá cargar gas hasta que certifiques.
-* **GLP**: Podrás cargar, pero te exigirán el certificado vigente al pasar la Revisión Técnica Vehicular.
+Es importante mantenerla al día para seguir disfrutando del sistema sin interrupciones:
+- **GNV**: Los gasocentros verifican automáticamente la vigencia al momento de cargar. Si venció, simplemente renuévala y listo.
+- **GLP**: Puedes seguir cargando con normalidad, pero necesitarás tenerla vigente para la Revisión Técnica Vehicular.
 
 ---
 
-## 7. REVISIÓN DE CILINDROS CADA 5 AÑOS (SOLO GNV)
+## 8. REVISIÓN DE CILINDROS CADA 5 AÑOS (SOLO GNV)
 
 **¿Qué es la revisión quinquenal?**
-Es una inspección profunda obligatoria cada 5 años solo para tanques de GNV. El tanque se desmonta por completo para realizarle pruebas de presión e internas en un centro autorizado por el MTC. El GLP no pasa por esto, ya que su tanque se cambia por completo a los 10 años.
+Es una revisión de seguridad profunda que se realiza cada 5 años solo para tanques de GNV. Es el respaldo técnico que garantiza que tu tanque siga en perfectas condiciones por muchos años más. El GLP no necesita esto, ya que su tanque se renueva a los 10 años.
 
 **¿Cuánto tiempo toma?**
-Entre 1 y 2 días, debido a que el tanque debe ser llevado a un laboratorio especial para sus pruebas de seguridad.
+Entre 1 y 2 días. El tanque se lleva a un centro especializado autorizado por el MTC para sus pruebas de seguridad, y luego se devuelve instalado como nuevo.
 
 ---
 
-## 8. REGISTRO EN SUNARP
+## 9. REGISTRO EN SUNARP
 
 **¿Debo registrar la conversión?**
 Sí. Al cambiar el combustible, se debe actualizar la tarjeta de propiedad en la SUNARP para que figure como "GASOLINA / GNV" o "GASOLINA / GLP". Rufigas te entregará todos los documentos técnicos necesarios para que realices este trámite de forma personal.
 
 ---
 
-## 9. PROGRAMA AHORRO GNV
+## 10. PROGRAMA AHORRO GNV
 
 **¿Qué es el Programa Ahorro GNV?**
 Es un beneficio del Estado (FISE) que financia la conversión a GNV sin cuota inicial y sin intereses. Se paga en un plazo de hasta 3 años directamente cada vez que cargas gas en el grifo (se añade un pequeño monto a tu consumo).
@@ -167,36 +189,36 @@ Sí. Rufigas es un taller autorizado por el MTC y afiliado al Programa Ahorro GN
 
 ---
 
-## 10. MANTENIMIENTO
+## 11. MANTENIMIENTO
 
 **¿Qué mantenimiento requiere el sistema de gas?**
-Se realiza aproximadamente cada 20,000 kilómetros (una vez al año para un usuario promedio). Incluye el cambio de filtros de gas y la calibración del sistema.
+Se realiza aproximadamente cada 20,000 kilómetros (una vez al año para un usuario promedio). Incluye el cambio de filtros de gas y la calibración del sistema. Es simple, rápido y garantiza que tu sistema siga funcionando al máximo.
 
 ---
 
-## 11. ¿SE PUEDE CONVERTIR UN VEHÍCULO A DIESEL?
+## 12. ¿SE PUEDE CONVERTIR UN VEHÍCULO A DIESEL?
 
-No de la forma estándar. Las conversiones tradicionales de Rufigas son exclusivas para motores a gasolina. Los motores diesel funcionan de manera diferente y no son compatibles con nuestros equipos.
+No de la forma estándar. Las conversiones de Rufigas son exclusivas para motores a gasolina. Si tu vehículo es a diesel, te recomendamos consultarnos directamente para evaluar opciones.
 
 ---
 
-## 12. GUÍA DE TANQUES TOROIDALES DE GLP (FORMA DE DONA)
+## 13. GUÍA DE TANQUES TOROIDALES DE GLP (FORMA DE DONA)
 
-* **Instalación Interna:** Se ubica en el espacio original de la llanta de repuesto. Es la opción más estética para autos sedán.
+* **Instalación Interna:** Se ubica en el espacio original de la llanta de repuesto. Es la opción más estética para autos sedán y conserva toda la maletera libre.
 * **Instalación Externa:** Se monta de manera segura en la parte baja exterior del vehículo. Ideal para camionetas, SUV y minivans.
 
 **¿Me quedo sin llanta de repuesto con el tanque toroidal?**
-Al ocupar ese espacio, las soluciones comunes de los conductores son: usar una llanta de emergencia más delgada (tipo galleta) sobre el piso de la maletera, o llevar un kit moderno de reparación de pinchazos. La mayoría lo prefiere para mantener la maletera libre.
+El tanque ocupa ese espacio, pero la solución es muy sencilla: la mayoría de conductores usa una llanta de emergencia delgada (tipo galleta) o un kit moderno de reparación de pinchazos. Es un intercambio que vale la pena para tener la maletera completamente libre.
 
 ---
 
-## 13. MARCAS Y EQUIPOS — ¿QUÉ INSTALA RUFIGAS?
+## 14. MARCAS Y EQUIPOS — ¿QUÉ INSTALA RUFIGAS?
 
 Rufigas instala exclusivamente la marca italiana **Tomasetto Achille** con electrónica **AEB**, considerada la número 1 del mundo en sistemas de gas. Todos los componentes son importados, de alta precisión y están homologados por el MTC.
 
 ---
 
-## 14. MOTORES DE INYECCIÓN DIRECTA (GDI, TSI, FSI, D-4S)
+## 15. MOTORES DE INYECCIÓN DIRECTA (GDI, TSI, FSI, D-4S)
 
 **¿Se pueden convertir?**
 Sí. Estos motores modernos requieren un kit especial de alta tecnología. El sistema trabaja de forma inteligente combinando el gas con una cantidad mínima de gasolina para proteger el motor. En **Rufigas** realizamos una inspección gratuita para indicarte el equipo exacto que necesitas.
